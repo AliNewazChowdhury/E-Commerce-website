@@ -7,7 +7,7 @@ Features are: <br>
 4 User can not delay more than a day to add products to cart otherwise the products will get deleted from the cart. <br>
 5 User may add same product to his\her cart with different quantities twice or more times ,Then the product quantities will be
 summed up and added as a single row in the cart. <br>
-6 Admin can add product Catgory ,Sub-Category and Products. <br>
+6 Admin can add, update, delete product Catgory ,Sub-Category and Products. <br>
 7 Admin can change the product's visibility .Only visible products will be displayed in the website. <br>
 8 Admin can edit the added price, offered discount, number of product, buying price, Category name,Sub-Category name. <br>
 9 Every products will get a uique code. <br> 
