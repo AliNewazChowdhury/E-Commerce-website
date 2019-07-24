@@ -11,4 +11,5 @@ summed up and added as a single row in the cart. <br>
 7 Admin can change the product's visibility .Only visible products will be displayed in the website. <br>
 8 Admin can edit the added price, offered discount, number of product, buying price, Category name,Sub-Category name. <br>
 9 Every products will get a uique code. <br> 
-10 User or Admin can upload his\her image in his\her dashboard.
+10 User or Admin can upload his\her image in his\her dashboard.<br>
+11 Google map integration.
